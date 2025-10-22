@@ -15,7 +15,7 @@ I believe true mastery is built from curiosity, long nights, and a terminal wind
 ---
 
 ## 🧠 What I’m Working On
-- 🌱 Learning **Data Structures**, **Assembly Language**, and **Linux for Hackers**
+- 🌱 Learning **Data Structures**, **Assembly Language**, and **Python**
 - 🔐 Exploring **Ethical Hacking**, **Networking**, and **Bug Bounties**
 - 🧰 Building tools and experiments in **C++**, **Python**, and **Bash**
 
