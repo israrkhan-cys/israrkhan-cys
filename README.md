@@ -5,47 +5,65 @@
 
 ---
 
-## 👨‍💻 About Me
-Hi, I’m **Israr Khan (Zephyr)** — a Computer Science student at **FAST**.  
-I’m currently focused on strengthening my **core CS fundamentals**, exploring **Linux**, and improving my **cybersecurity and programming skills**.  
+# 👋 Welcome to My GitHub Universe
+
+I'm **Zephyr (Israr Khan)** — a **Computer Science student at FAST** passionate about **cybersecurity, systems programming, and breaking things to make them stronger**.  
+I believe true mastery is built from curiosity, long nights, and a terminal window glowing in the dark 🖤
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** C++, Python, HTML, CSS  
-- **Tools:** Linux, Git, VS Code, Qt Creator  
-- **Interests:** Cybersecurity, Systems Programming, Open Source  
+## 🧠 What I’m Working On
+- 🌱 Learning **Data Structures**, **Assembly Language**
+- 🔐 Exploring **Linux**, **Networking**, and **Cybersecurity**
+- 🧰 Building tools and experiments in **C++**, **Python**, and **Bash**
+  
+---
+
+## 🛠️ Tech Stack
+
+| Languages | Tools | Focus Areas |
+|------------|--------|--------------|
+| C++, Python, HTML, CSS | Linux, Git, Qt Creator, VS Code | Cybersecurity, Open Source, Systems Programming |
 
 ---
 
-## 📚 Current Focus
-- Data Structures & Algorithms  
-- Computer Organization & Assembly  
-- Networking & Linux System Fundamentals  
+## ⚙️ Projects
+💡 Some of my work includes:
+- 🌦️ **Weather App (Qt)** — GUI app fetching real-time weather data  
+- 🗳️ **Voting System (C++)** — console-based system using file handling  
+- 🌐 **FAST Website Clone** — responsive site built with HTML/CSS  
+
+More projects soon — something exciting is *always compiling...*
 
 ---
 
-## 🚀 Projects
-- **Weather App (Qt):** Real-time weather display GUI  
-- **Voting System (C++):** Console-based file-handling system  
-- **FAST Website Clone:** Responsive HTML/CSS recreation  
+## 📊 GitHub Analytics
+
+![Zephyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=israrkhan-cys&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israrkhan-cys&layout=compact&theme=radical&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=israrkhan-cys&theme=darkhub&margin-w=10)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=israrkhan-cys&theme=github-dark)
 
 ---
 
-## 📊 GitHub Insights
+## 🌐 Connect with Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israrkhan-cys&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israrkhan-cys&layout=compact&theme=tokyonight&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-israr-01364a321)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/zephyr_.o2)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/YOUR_LINK)
 
 ---
 
-## 🌐 Links
-[LinkedIn](www.linkedin.com/in/muhammad-israr-01364a321) • [Instagram](https://instagram.com/zephyr_.o2?) 
+
+### 🧠 Quote I Live By
+> _“Work on yourself so hard that people think your success was a cheat code.”_
 
 ---
 
 <div align="center">
-
-💡 *Keep it simple. Keep improving.*
-
+  
+🧠 Built by Zephyr (Israr Khan) with curiosity, caffeine, and controlled chaos.  
+  
 </div>
