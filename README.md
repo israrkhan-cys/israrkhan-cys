@@ -7,7 +7,7 @@
 
 # 👋 Welcome to My GitHub Universe
 
-> “The quieter you become, the more you can hear the code whisper.” — Anonymous Hacker 🕶️  
+  
 
 I'm **Zephyr (Israr Khan)** — a **Computer Science student at FAST** passionate about **cybersecurity, systems programming, and breaking things to make them stronger**.  
 I believe true mastery is built from curiosity, long nights, and a terminal window glowing in the dark 🖤
