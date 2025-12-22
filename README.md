@@ -1,7 +1,7 @@
 <!-- Profile README for israrkhan-cys -->
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Israr+(Zephyr)!;Computer+Science+Student+%40+FAST;Cybersecurity+%26+Tech+Enthusiast;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+M-Israr+(Zephyr)!;Computer+Science+Student+%40+FAST;Cybersecurity+%26+Tech+Enthusiast;Always+learning+something+new)](https://git.io/typing-svg)
 
 ---
 
