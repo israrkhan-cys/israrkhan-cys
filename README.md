@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-I'm **Israr Khan (Zephyr)**, a Computer Science student at FAST with a strong interest in cybersecurity, systems programming, and software development. I enjoy solving complex problems and building practical solutions through code.
+I'm **Muhammad Israr**, a Computer Science student at FAST with a strong interest in cybersecurity, systems programming, and software development. I enjoy solving complex problems and building practical solutions through code.
 
 ---
 
@@ -22,7 +22,7 @@ I'm **Israr Khan (Zephyr)**, a Computer Science student at FAST with a strong in
 ## 📁 Featured Projects
 
 ### 🌦️ Weather App (Qt)
-A GUI application built with Qt that fetches and displays real-time weather data.
+A GUI application built with Qt that fetches and displays real-time weather data in C++.
 
 ### 🗳️ Voting System (C++)
 Console-based voting system implementing file handling and data management.
@@ -53,6 +53,8 @@ Responsive website built with HTML/CSS replicating the FAST university interface
 - **Assembly Language (x86)**
 - **Linux System Administration**
 - **Cybersecurity Fundamentals**
+- **AI & ML**
+- **OS Basics**
 
 ---
 
@@ -72,6 +74,6 @@ Responsive website built with HTML/CSS replicating the FAST university interface
 <div align="center">
 
 **Built with curiosity and code**  
-© 2024 Israr Khan
+© 2024 M-Israr
 
 </div>
