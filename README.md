@@ -1,69 +1,49 @@
-<!-- Profile README for israrkhan-cys -->
+👋 Hello, I'm Israr Khan (Zephyr)
+Computer Science Student @ FAST | Cybersecurity & Systems Programming Enthusiast
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Israr+(Zephyr)!;Computer+Science+Student+%40+FAST;Cybersecurity+%26+Tech+Enthusiast;Always+learning+something+new)](https://git.io/typing-svg)
+🔍 About Me
+I'm a Computer Science student at FAST with a focus on cybersecurity, systems programming, and low-level computing. I enjoy understanding how things work at their core and building secure, efficient systems. Currently diving deep into data structures, assembly language, and networking fundamentals.
 
----
+🛠️ Technical Skills
+Languages: C++, Python, HTML, CSS
+Tools & Platforms: Linux, Git, Qt Creator, VS Code
+Areas of Interest: Cybersecurity, Open Source Software, Systems Programming, Networking
 
-# 👋 Welcome to My GitHub Universe
+📁 Featured Projects
+Weather App (Qt)
+A GUI application that fetches and displays real-time weather data using Qt framework.
 
-I'm **Zephyr (Israr Khan)** — a **Computer Science student at FAST** passionate about **cybersecurity, systems programming, and breaking things to make them stronger**.  
-I believe true mastery is built from curiosity, long nights, and a terminal window glowing in the dark 🖤
+Voting System (C++)
+Console-based voting system implementing file handling and data management in C++.
 
----
+FAST Website Clone
+Responsive website built with HTML and CSS, replicating the FAST university website interface.
 
-## 🧠 What I’m Working On
-- 🌱 Learning **Data Structures**, **Assembly Language**
-- 🔐 Exploring **Linux**, **Networking**, and **Cybersecurity**
-- 🧰 Building tools and experiments in **C++**, **Python**, and **Bash**
-  
----
+📈 GitHub Statistics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=israrkhan-cys&show_icons=true&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=israrkhan-cys&layout=compact&theme=dark&hide_border=true
 
-## 🛠️ Tech Stack
+https://github-readme-activity-graph.vercel.app/graph?username=israrkhan-cys&theme=github-dark
 
-| Languages | Tools | Focus Areas |
-|------------|--------|--------------|
-| C++, Python, HTML, CSS | Linux, Git, Qt Creator, VS Code | Cybersecurity, Open Source, Systems Programming |
+</div>
+📫 Connect With Me
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
----
+📚 Currently Learning
+Data Structures & Algorithms
 
-## ⚙️ Projects
-💡 Some of my work includes:
-- 🌦️ **Weather App (Qt)** — GUI app fetching real-time weather data  
-- 🗳️ **Voting System (C++)** — console-based system using file handling  
-- 🌐 **FAST Website Clone** — responsive site built with HTML/CSS  
+x86 Assembly Language
 
-More projects soon — something exciting is *always compiling...*
+Linux System Administration
 
----
+Network Security Fundamentals
 
-## 📊 GitHub Analytics
-
-![Zephyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=israrkhan-cys&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israrkhan-cys&layout=compact&theme=radical&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=israrkhan-cys&theme=darkhub&margin-w=10)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=israrkhan-cys&theme=github-dark)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-israr-01364a321)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/zephyr_.o2)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/YOUR_LINK)
-
----
-
-
-### 🧠 Quote I Live By
-> _“Work on yourself so hard that people think your success was a cheat code.”_
-
----
+"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
 
 <div align="center">
-  
-🧠 Built by Zephyr (Israr Khan) with curiosity, caffeine, and controlled chaos.  
-  
+© 2024 Israr Khan | Computer Science Student
+
 </div>
