@@ -13,10 +13,18 @@ I'm **Muhammad Israr**, a Computer Science student at FAST with a strong interes
 
 ## 🛠️ Technical Stack
 
-**Programming Languages:** C++, Python, HTML, CSS  
-**Tools & Environments:** Linux, Git, Qt Creator, VS Code  
-**Areas of Focus:** Cybersecurity, Systems Programming, Open Source Development
+<div align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</div>
 
+**Focus Areas:** Cybersecurity | Systems Programming | Open Source
 ---
 
 ## 📁 Featured Projects
