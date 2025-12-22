@@ -33,7 +33,7 @@ I'm **Israr Khan (Zephyr)**, a Computer Science student at FAST with a strong in
 ### **Currently Exploring**
 <div align="left">
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </div>
 
