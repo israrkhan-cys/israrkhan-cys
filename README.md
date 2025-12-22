@@ -76,13 +76,3 @@ Responsive website built with HTML/CSS replicating the FAST university interface
 
 ---
 
-## 📚 Currently Learning
-
-<div align="center">
-
-```text
-🖥️ Systems Programming   ███████████░░░░ 75%
-🔒 Cybersecurity         █████████░░░░░░ 65%
-📊 Data Structures       ████████████░░░ 85%
-🔧 Assembly Language     ██████░░░░░░░░░ 50%
-🌐 Networking            █████████░░░░░░ 65%
