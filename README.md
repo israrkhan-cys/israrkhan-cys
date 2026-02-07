@@ -41,6 +41,9 @@ I'm **Israr Khan (Zephyr)**, a Computer Science student at FAST with a strong in
 
 ## 📁 Featured Projects
 
+### Simfs (C++)
+Simfs is a Linux file system simulator built from scratch in C++
+
 ### 🌦️ Weather App (Qt)
 A GUI application built with Qt that fetches and displays real-time weather data.
 
