@@ -5,6 +5,8 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=israrkhan-cys&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 👋 About Me
 
 I'm **Israr Khan (Zephyr)**, a Computer Science student at FAST with a strong interest in cybersecurity, systems programming, and software development. I enjoy solving complex problems and building practical solutions through code.
