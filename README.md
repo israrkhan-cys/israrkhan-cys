@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm **Israr Khan (Zephyr)**, a Computer Science student at FAST with a strong interest in cybersecurity, systems programming, and software development. I enjoy solving complex problems and building practical solutions through code.
+I'm **Muhammad Israr (Zephyr)**, a Computer Science student at FAST with a strong interest in cybersecurity, systems programming, and software development. I enjoy solving complex problems and building practical solutions through code.
 
 ---
 
