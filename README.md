@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm **Muhammad Israr (Zephyr)**, a Computer Science student at FAST with a strong interest in cybersecurity, systems programming, AI/ML and software development. I enjoy solving complex problems and building practical solutions through code. Always learning and building.
+I'm **Muhammad Israr (Zephyr)**, a Computer Science student at FAST with a strong interest in cybersecurity, systems programming,and software development. I enjoy solving complex problems and building practical solutions through code. Always learning and building.
 
 ---
 
@@ -39,7 +39,7 @@ I'm **Muhammad Israr (Zephyr)**, a Computer Science student at FAST with a stron
 ## 📁 Featured Projects
 
 ### Simfs (C++)
-Simfs is a Linux file system simulator built from scratch in C++
+Simfs is a Linux file system simulator built from scratch in C++.
 
 ### 🌦️ Weather App (Qt)
 A GUI application built with Qt that fetches and displays real-time weather data.
