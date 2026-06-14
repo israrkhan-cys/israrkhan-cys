@@ -36,19 +36,35 @@ I'm **Muhammad Israr (Zephyr)**, a Computer Science student at FAST with a stron
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </div>
 
-## 📁 Featured Projects
+## Featured Projects
 
-### Simfs (C++)
-Simfs is a Linux file system simulator built from scratch in C++.
+### ZephShell (C)
+A Unix shell built from scratch in C implementing command parsing,
+process creation via fork/exec/wait, and dynamic argument handling.
+[GitHub](https://github.com/israrkhan-cys/zephshell)
 
-### 🌦️ Weather App (Qt)
-A GUI application built with Qt that fetches and displays real-time weather data.
+### SIMFS (C++)
+A Linux-style hierarchical file system simulator using n-ary tree
+data structures with full CRUD operations, wildcard search, and
+a terminal interface with RAII memory management.
+[GitHub](https://github.com/israrkhan-cys/simfs.git)
 
-### 🗳️ Voting System (C++)
-Console-based voting system implementing file handling and data management.
+### SkillGap AI (Python, Flask)
+An AI-powered web app that analyzes resumes and generates personalized
+skill gap reports using LLaMA 3.1 70B via Groq API. Deployed live.
+[GitHub](https://github.com/israrkhan-cys/SkillGap-AI.git) | [Live Demo](https://skill-gap-ai-alpha.vercel.app/)
 
-🔗 *Check my [GitHub repositories](https://github.com/israrkhan-cys?tab=repositories) for more projects*
+### Network Intrusion Detection System (Python)
+ML pipeline classifying network traffic as normal or attack using
+KNN, Naïve Bayes, Logistic Regression, K-Means clustering, and
+a custom Genetic Algorithm for feature selection.
 
+### Weather App (Qt/C++)
+A GUI application built with Qt that fetches and displays real-time
+weather data from a live API.
+[GitHub](https://github.com/israrkhan-cys/WeatherApp_OOP_Project.git)
+
+![View all repositories](https://github.com/israrkhan-cys?tab=repositories)
 ---
 
 ## 📈 GitHub Analytics
