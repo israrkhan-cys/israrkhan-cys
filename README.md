@@ -28,43 +28,10 @@ I'm **Muhammad Israr (Zephyr)**, a Computer Science student at FAST with a stron
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</div>
-
-### Currently Exploring.
-<div align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </div>
 
-## Featured Projects
-
-### ZephShell (C)
-A Unix shell built from scratch in C implementing command parsing,
-process creation via fork/exec/wait, and dynamic argument handling.
-[GitHub](https://github.com/israrkhan-cys/zephshell)
-
-### SIMFS (C++)
-A Linux-style hierarchical file system simulator using n-ary tree
-data structures with full CRUD operations, wildcard search, and
-a terminal interface with RAII memory management.
-[GitHub](https://github.com/israrkhan-cys/simfs.git)
-
-### SkillGap AI (Python, Flask)
-An AI-powered web app that analyzes resumes and generates personalized
-skill gap reports using LLaMA 3.1 70B via Groq API. Deployed live.
-[GitHub](https://github.com/israrkhan-cys/SkillGap-AI.git) | [Live Demo](https://skill-gap-ai-alpha.vercel.app/)
-
-### Network Intrusion Detection System (Python)
-ML pipeline classifying network traffic as normal or attack using
-KNN, Naïve Bayes, Logistic Regression, K-Means clustering, and
-a custom Genetic Algorithm for feature selection.
-
-### Weather App (Qt/C++)
-A GUI application built with Qt that fetches and displays real-time
-weather data from a live API.
-[GitHub](https://github.com/israrkhan-cys/WeatherApp_OOP_Project.git)
-
-![View all repositories](https://github.com/israrkhan-cys?tab=repositories)
 ---
 
 ## 📈 GitHub Analytics
