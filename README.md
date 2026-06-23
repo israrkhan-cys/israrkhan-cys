@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center<div align="center">
-  <!-- Animated Typing Intro -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Israr+(Zephyr)!;CS+Student+%40+FAST;Cybersecurity+%26+Tech+Enthusiast;Building+the+future%2C+one+line+at+a+time" alt="Typing intro" />
   
   <!-- Profile Views Counter -->
@@ -18,15 +16,11 @@
 
 **Muhammad Israr (Zephyr)**  
 Computer Science Student @ FAST  
-Cybersecurity Enthusiast  
-Systems Programming & Software Development
-
-> "Code is poetry, and I'm writing my masterpiece."
-
-- Currently exploring Penetration Testing & Low-Level Programming
-- 2026 Goals: Contribute to open-source security tools
-- Learning: Rust & Reverse Engineering
-- Fun fact: I run Arch Linux (btw)
+Aspiring Soc Analyst | Interested in system programming and 
+Open source contributions.
+- Currently Doing Google Cybersecurity Professional
+	cert
+- Learning Networks and doing Home labbing.
 
 ---
 
@@ -64,12 +58,9 @@ Systems Programming & Software Development
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=israrkhan-cys&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF" width="100%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrkhan-cys&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFAA" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
   ![Snake Animation](https://github.com/israrkhan-cys/israrkhan-cys/blob/output/github-contribution-grid-snake-dark.svg)
