@@ -13,11 +13,17 @@
 ## $ whoami
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" />
+
 **Muhammad Israr (Zephyr)**  
+
 Computer Science Student @ FAST
 
-**Interests:** Cybersecurity, Systems Programming, Open Source, Linux  
-**Currently learning:** Completing the Google Cybersecurity Professional Certificate, building a home lab, and practicing through TryHackMe and CTFs.
+**Interests:** Cybersecurity, Systems Programming, Open Source, Linux ricing
+
+**Currently learning:**
+- Completing the Google Cybersecurity Professional Certificate.
+- building a home lab
+- practicing through TryHackMe and CTFs.
 
 
 ---
@@ -65,4 +71,3 @@ Computer Science Student @ FAST
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-  ![Snake Animation](https://github.com/israrkhan-cys/israrkhan-cys/blob/output/github-contribution-grid-snake-dark.svg)
