@@ -16,8 +16,8 @@
 
 **Muhammad Israr (Zephyr)**  
 
-Computer Science Student @ FAST
-Aspiring Soc analyst
+Computer Science Student @ FAST <br>
+Aspiring Soc analyst <br>
 **Interests:** Cybersecurity, Systems Programming, Open Source, Linux ricing
 
 **Currently learning:**
