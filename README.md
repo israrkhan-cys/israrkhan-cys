@@ -14,17 +14,19 @@
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" />
 
-**Muhammad Israr (Zephyr)**  
+**Muhammad Israr (Zephyr)**
+Computer Science Student 
+Google Certified Cybersecurity Professional
+Interests: Cybersecurity, Systems Programming,
+Linux Internals, Open Source, CTFs
 
-Computer Science Student @ FAST <br>
-Aspiring Soc analyst <br>
-**Interests:** Cybersecurity, Systems Programming, Open Source, Linux ricing
-
-**Currently learning:**
-- Completing the Google Cybersecurity Professional Certificate.
-- building a home lab
-- practicing through TryHackMe and CTFs.
-
+Currently:
+- Running Wazuh SIEM home lab
+- 80+ CTF challenges solved on picoCTF
+- Web penetration testing training
+- Building ZephShell — a Unix shell in C
+- Building radiq
+- learning linux kernel development
 
 ---
 
@@ -44,6 +46,7 @@ Aspiring Soc analyst <br>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  
 </p>
 ### Tools & Environment
 <p align="left">
@@ -53,6 +56,10 @@ Aspiring Soc analyst <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-00A9CE?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
