@@ -14,7 +14,7 @@
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" />
 
-**Muhammad Israr (Zephyr)**
+**Israr (Zeph)** <br>
 Computer Science Student <br>
 Google Certified Cybersecurity Professional <br>
 Interests: Cybersecurity, Systems Programming,
