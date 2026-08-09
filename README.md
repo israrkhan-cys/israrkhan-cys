@@ -14,18 +14,20 @@
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" />
 
-**Israr** <br>
-Computer Science Student <br>
-Google Certified Cybersecurity Professional <br>
+**Name: Israr** <br>
+Field of work: CS Student, Google Certified Cybersecurity Professional <br>
 Interests: Cybersecurity, Systems Programming,
-Linux Internals, Open Source, CTFs
+Linux Internals, Open Source, CTFs <br>
+
+<br>
+
 
 Currently:
 - Running Wazuh SIEM home lab
-- 80+ CTF challenges solved on picoCTF
+- 90+ CTF challenges solved on picoCTF
 - Web penetration testing training
 - Building ZephShell — a Unix shell in C
-- Building radiq
+- Building radiq  (app launcher for hyprland)
 - learning linux kernel development
 
 ---
@@ -37,8 +39,7 @@ Currently:
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ 
 </p>
 
 ### Security & Networking
